@@ -1,0 +1,8 @@
+tom, 12, 86
+Lee, 15, 99
+Lucy,11, 58
+Josepy, 19 , 56
+tom, 12, 86
+Lee, 15, 99
+Lucy,11, 58
+Josepy, 19 , 56
