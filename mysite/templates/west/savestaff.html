@@ -1,0 +1,9 @@
+<form action="/west/savestaff/" method='post'>
+    {% csrf_token %}
+    <input name='staff' type='text'/>
+    <input type='submit' value='Submit'/>
+</form>
+
+{% for persion in staff %}
+<p>{{persion }} </p>
+{% endfor %}
