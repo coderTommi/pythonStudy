@@ -1,0 +1,22 @@
+city:济南
+
+date:05-30		day:多云(34°C )		night:晴( 24°C)
+
+date:05-31		day:多云(31°C )		night:多云( 19°C)
+
+date:06-01		day:晴(31°C )		night:晴( 19°C)
+
+date:06-02		day:晴(33°C )		night:晴( 21°C)
+
+date:06-03		day:多云(32°C )		night:多云( 21°C)
+
+date:06-04		day:多云(33°C )		night:多云( 21°C)
+
+date:06-05		day:局部多云(28°C )		night:局部多云( 16°C)
+
+date:06-06		day:局部多云(27°C )		night:局部多云( 17°C)
+
+date:06-07		day:局部多云(29°C )		night:局部多云( 17°C)
+
+date:06-08		day:零散雷雨(31°C )		night:零散雷雨( 18°C)
+
